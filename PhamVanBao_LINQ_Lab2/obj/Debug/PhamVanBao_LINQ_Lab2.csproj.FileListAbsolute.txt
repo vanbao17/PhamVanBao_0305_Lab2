@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\bin\Debug\PhamVanBao_LINQ_Lab2.exe.config
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\bin\Debug\PhamVanBao_LINQ_Lab2.exe
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\bin\Debug\PhamVanBao_LINQ_Lab2.pdb
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\obj\Debug\PhamVanBao_LINQ_Lab2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\obj\Debug\PhamVanBao_LINQ_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\obj\Debug\PhamVanBao_LINQ_Lab2.exe
+C:\Users\Admin\OneDrive - University of Technology and Education\Documents\Tài liệu học tập\HK6\BaiTapC#(T.Huy)\PhamVanBao_LINQ_Lab2\PhamVanBao_LINQ_Lab2\obj\Debug\PhamVanBao_LINQ_Lab2.pdb
